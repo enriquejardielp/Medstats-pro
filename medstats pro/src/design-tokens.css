@@ -1,0 +1,33 @@
+:root {
+  /* Paleta "clínica editorial": papel cálido, tinta profunda, acento verde azulado */
+  --color-bg: #f5f3ee;
+  --color-bg-deep: #ece8df;
+  --color-surface: #ffffff;
+  --color-ink: #10232e;
+  --color-ink-soft: #1b3442;
+  --color-text-primary: #10232e;
+  --color-text-secondary: #5b6b73;
+  --color-text-tertiary: #8d9a9f;
+  --color-accent: #0d7c72;
+  --color-accent-strong: #0a5f58;
+  --color-accent-soft: #e3f2ef;
+  --color-highlight: #e8775a;
+  --color-highlight-soft: #fbe9e2;
+  --color-action: #0d7c72;
+  --color-action-hover: #0a5f58;
+  --color-border: #e3ded3;
+  --color-border-strong: #d2ccbf;
+  --color-success: #2f8f5b;
+  --color-warning: #c98a1b;
+  --color-error: #c2413a;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+  --shadow-sm: 0 1px 2px rgba(16, 35, 46, 0.05);
+  --shadow-md: 0 1px 2px rgba(16, 35, 46, 0.04), 0 8px 24px -12px rgba(16, 35, 46, 0.18);
+  --shadow-lg: 0 2px 4px rgba(16, 35, 46, 0.04), 0 24px 48px -20px rgba(16, 35, 46, 0.28);
+  --font-sans: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
